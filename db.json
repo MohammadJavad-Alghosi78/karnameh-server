@@ -1,9 +1,142 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "questions": [
+    {
+      "id": 1,
+      "title": "Question title",
+      "image": "",
+      "description": "ْQuestion Description is here",
+      "date": "1396/12/25",
+      "time": "12:59",
+      "answers": [
+        {
+          "name": "علی کیا",
+          "image": "",
+          "answer": "Answer of This question",
+          "date": "1396/12/25",
+          "time": "11:32",
+          "answerId": "A1",
+          "likes": 12,
+          "disLikes": 9
+        },
+        {
+          "answer": "sfasdf",
+          "answerId": 1701783621009,
+          "date": "۱۴۰۲/۹/۱۴",
+          "time": "17:10",
+          "name": "میلاد الغوثی",
+          "image": "",
+          "likes": 8,
+          "disLikes": 2
+        },
+        {
+          "answer": "جواب جدید",
+          "answerId": 1701784164919,
+          "date": "۱۴۰۲/۹/۱۴",
+          "time": "17:19",
+          "name": "میلاد الغوثی",
+          "image": "",
+          "likes": 13,
+          "disLikes": 9
+        },
+        {
+          "answer": "fasdfadf",
+          "answerId": 1701787614961,
+          "date": "۱۴۰۲/۹/۱۴",
+          "time": "18:16",
+          "name": "میلاد الغوثی",
+          "image": "",
+          "likes": 0,
+          "disLikes": 0
+        }
+      ]
+    },
+    {
+      "id": 1701783632437,
+      "title": "test",
+      "description": "ssss",
+      "image": "",
+      "date": "۱۴۰۲/۹/۱۴",
+      "time": "17:10",
+      "answers": [
+        {
+          "answer": "tessss",
+          "answerId": 1701783644343,
+          "date": "۱۴۰۲/۹/۱۴",
+          "time": "17:10",
+          "name": "میلاد الغوثی",
+          "image": "",
+          "likes": 24,
+          "disLikes": 8
+        },
+        {
+          "answer": "fsdfsafd",
+          "answerId": 1701808819896,
+          "date": "۱۴۰۲/۹/۱۵",
+          "time": "0:10",
+          "name": "الناز شاکردوست",
+          "image": "",
+          "likes": 12,
+          "disLikes": 5
+        },
+        {
+          "answer": "fsdfsafdss",
+          "answerId": 1701809021550,
+          "date": "۱۴۰۲/۹/۱۵",
+          "time": "0:13",
+          "name": "الناز شاکردوست",
+          "image": "",
+          "likes": 0,
+          "disLikes": 0
+        },
+        {
+          "answer": "sfsadf",
+          "answerId": 1701809028772,
+          "date": "۱۴۰۲/۹/۱۵",
+          "time": "0:13",
+          "name": "الناز شاکردوست",
+          "image": "",
+          "likes": 0,
+          "disLikes": 0
+        },
+        {
+          "answer": "sfsadfsafsafsaf",
+          "answerId": 1701809047807,
+          "date": "۱۴۰۲/۹/۱۵",
+          "time": "0:14",
+          "name": "الناز شاکردوست",
+          "image": "",
+          "likes": 0,
+          "disLikes": 0
+        },
+        {
+          "answer": "sfsadfsafsafsafsssssssss",
+          "answerId": 1701809059932,
+          "date": "۱۴۰۲/۹/۱۵",
+          "time": "0:14",
+          "name": "الناز شاکردوست",
+          "image": "",
+          "likes": 0,
+          "disLikes": 0
+        }
+      ]
+    },
+    {
+      "id": 1701787609927,
+      "title": "test",
+      "description": "sss",
+      "image": "",
+      "date": "۱۴۰۲/۹/۱۴",
+      "time": "18:16",
+      "answers": []
+    },
+    {
+      "id": 1701809065821,
+      "title": "fsadf",
+      "description": "afsdfsadf",
+      "image": "",
+      "date": "۱۴۰۲/۹/۱۵",
+      "time": "0:14",
+      "answers": []
+    }
+  ]
 }
